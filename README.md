@@ -1,4 +1,4 @@
-# 👨‍💻 Alexander's Developer Portfolio
+# 👨‍💻 Portfolio: Developments and Projects
 
 Welcome to my portfolio! Here you'll find a curated list of my personal and academic projects, covering a range of topics from game modding to web development and desktop applications.
 
@@ -13,10 +13,6 @@ A desktop application developed with WPF and .NET 8.0 to manage doctor-patient a
 ### 🏰 [FormacionLaboralXXI-DjangoWebApp](https://github.com/alexander5109/FormacionLaboralXXI-DjangoWebApp)
 A Django web application inspired by real-world training institutions. It provides a user login system and full CRUD capabilities for managing students, courses, and training centers. The frontend is styled using a Bootstrap HTML/CSS template for a clean and responsive experience.
 
-
-## 🔧 Personal Programing Projects
-- **Gestor de Tecnicaturas (WIP)** — A desktop application designed to help digitize and manage student academic records, created for practical use by school staff. Written in C# with support for JSON, CSV, and SQLite3, it includes utilities to parse Google Sheets exports for bulk data import.
-
 ## 🔧 Gaming & Modding
 
 ### 🎮 [BFME2-ChallengeSystemTop10Players](https://github.com/alexander5109/BFME2-ChallengeSystemTop10Players)
@@ -24,6 +20,9 @@ A league challenges system tracker for BFME2 players, featuring a CSV history, p
 
 ### 🎮 [BFME2-BosPrimigeniusTaurusTheTW](https://github.com/alexander5109/BFME2-BosPrimigeniusTaurusTheTW)
 A Tower War style of map that basicaly reworked the entire gameplay of BFME2 in just a portable map. With this projects i learned BFME2 modding and most important, programing logic, when i designed the scripts of this map adventure.
+
+## 🔧 Personal Programing Projects
+- **Gestor de Tecnicaturas (WIP)** — A desktop application designed to help digitize and manage student academic records, created for practical use by school staff. Written in C# with support for JSON, CSV, and SQLite3, it includes utilities to parse Google Sheets exports for bulk data import.
 
 
 ## 🔐 Private Projects
