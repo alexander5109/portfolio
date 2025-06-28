@@ -143,6 +143,31 @@ Developed in 2022 and continuously maintained, I actively incorporate user feedb
 
 ---
 
+### 🧩 *Battle for Middle-earth II* – GameReplays.org Patch Development & Live Support
+**2013–2025 | GameReplays.org – Community Technical Contributor**
+
+He participado activamente en el mantenimiento, testeo y desarrollo de parches para *BFME2* bajo el motor SAGE, colaborando con la comunidad internacional para mantener vivo un juego clásico con fuerte base de jugadores competitivos. Mi rol evolucionó de tester a co-desarrollador, y finalmente a responsable principal de lanzamientos técnicos.
+
+#### 🛠️ Roles y responsabilidades:
+- Co-desarrollador de las versiones 1.09 y 1.09v2 (aproximadamente 100 betas combinadas)
+- Desarrollador principal de la versión 1.09v3.0 (65 betas)
+- Tester en versiones previas (1.07 y 1.08), colaborando con balance, QA y reporte de bugs
+- Autor del *Patch Switcher* en Python con GUI, permitiendo cambiar entre versiones sin alterar archivos binarios
+- Mantenimiento de archivos `.ini` complejos bajo restricciones de motor cerrado (sin tocar el `.exe`), equivalente a trabajo con DSLs embebidos
+- Coordinación comunitaria para balance competitivo, diseño de mapas y procesamiento de feedback continuo
+
+#### 🧰 Herramientas clave:
+- **WinMerge**: uso intensivo para comparar builds y cambios en scripts
+- **TortoiseGit**: gestión de versiones y revisión colaborativa por más de 10 años
+- **Python + Tkinter**: desarrollo de GUI utilitaria para facilitar testing comunitario
+- **Debugeo manual** de comportamiento emergente bajo condiciones limitadas de trazabilidad
+
+#### 📌 Publicación destacada:
+> “After a long journey of testing with over 65 beta versions, we are excited to share the highly anticipated Patch 1.09 Version 3.0 Final”  
+> 👉 [Ver publicación oficial en GameReplays.org](https://www.gamereplays.org/battleformiddleearth2/portals.php?show=page&name=bfme2-patch-1.09-version-3.0-live)
+
+---
+
 ## 🎮 [BFME2 - Bos Primigenius Taurus (Tower War)](https://github.com/alexander5109/BFME2-BosPrimigeniusTaurusTheTW)
 **Community / Hobby project.**  
 A fully custom *Tower War* map for *BFME2*, fundamentally reworking core gameplay through scripting. This project served as my introduction to game modding and programming logic. Developed and distributed between 2018 and 2023, it has been actively maintained since then.  
