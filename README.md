@@ -5,13 +5,21 @@ Welcome to my portfolio! Here you'll find a curated list of my personal and acad
 ## 🧠 Highlight Project
 
 ### 🐎 StudbookWebScrapper & RaceStimator
-An advanced tool for real-time web scraping and prediction of horse racing outcomes. Designed for performance, accuracy, and data integrity.
+A Python-based script developed for collecting and analyzing horse racing data, designed to assist users in making informed betting decisions before a race event. It scrapes online data, processes it into structured reports, and highlights key statistics for each horse.
 
-**Key features:**
-- Headless browsing using Selenium/Playwright to extract race data from JavaScript-rendered websites.
-- Immutable domain model with structured entities: `Horse`, `Race`, `Performance`.
-- Real-time prediction module with result caching and offline analysis support.
-- Built with Python, leveraging custom ETL routines and SQLite-based persistence.
+Project overview:
+- Originally developed as a freelance tool for bettors, it automates the collection of race and horse data from dynamic websites using Selenium and Playwright.
+- Processes and structures the data with pandas, storing it in a normalized SQLite3 database.
+- Generates daily reports with calculated variables and race-by-race recommendations.
+
+Current evolution:
+- The project is now being expanded with a stronger focus on data analysis. Refactoring efforts are underway to:
+- Incorporate asynchronous scraping using asyncio for better efficiency.
+- Extend the number of variables analyzed to improve prediction quality.
+- Improve code structure for future experimentation with predictive algorithms.
+
+Academic collaboration:
+This project is part of an ongoing academic research initiative in collaboration with a professional statistician. Together, we will present a poster detailing the algorithmic logic behind this tool at the LI Coloquio Argentino de Estadística, to be held in Tucumán later this year.
 
 **Screenshots:**
 
@@ -41,6 +49,9 @@ A modern PyQt6-based GUI tool for managing patch versions, mods, and utilities f
   <img src="screenshots/bfme2_switcher/s1.png" width="400"/>
   <img src="screenshots/bfme2_switcher/s2.png" width="400"/>
   <img src="screenshots/bfme2_switcher/s3.png" width="400"/>
+  <img src="screenshots/bfme2_switcher/s4.png" width="400"/>
+  <img src="screenshots/bfme2_switcher/s5.png" width="400"/>
+  <img src="screenshots/bfme2_switcher/s6.png" width="400"/>
 </p>
 
 ## 🔧 Academic Projects
