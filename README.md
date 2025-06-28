@@ -24,13 +24,13 @@ This project is part of an ongoing academic research initiative in collaboration
 **Screenshots:**
 
 <p float="left">
-  <img src="screenshots/studbook_scrapper/s1.png" width="400"/>
-  <img src="screenshots/studbook_scrapper/s2.png" width="400"/>
-  <img src="screenshots/studbook_scrapper/s3.png" width="400"/>
-  <img src="screenshots/studbook_scrapper/s4.png" width="400"/>
-  <img src="screenshots/studbook_scrapper/s5.png" width="400"/>
-  <img src="screenshots/studbook_scrapper/s6.png" width="400"/>
-  <img src="screenshots/studbook_scrapper/s7.png" width="400"/>
+  <img src="screenshots/studbook_scrapper/s1.png" width="300"/>
+  <img src="screenshots/studbook_scrapper/s2.png" width="300"/>
+  <img src="screenshots/studbook_scrapper/s3.png" width="300"/>
+  <img src="screenshots/studbook_scrapper/s4.png" width="300"/>
+  <img src="screenshots/studbook_scrapper/s5.png" width="300"/>
+  <img src="screenshots/studbook_scrapper/s6.png" width="300"/>
+  <img src="screenshots/studbook_scrapper/s7.png" width="300"/>
 </p>
 
 
@@ -46,12 +46,12 @@ A practical PyQt6-based GUI tool for managing patch versions, mods, and utilitie
 **Screenshots:**
 
 <p float="left">
-  <img src="screenshots/bfme2_switcher/s1.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s2.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s3.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s4.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s5.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s6.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s1.PNG" width="300"/>
+  <img src="screenshots/bfme2_switcher/s2.PNG" width="300"/>
+  <img src="screenshots/bfme2_switcher/s3.PNG" width="300"/>
+  <img src="screenshots/bfme2_switcher/s4.PNG" width="300"/>
+  <img src="screenshots/bfme2_switcher/s5.PNG" width="300"/>
+  <img src="screenshots/bfme2_switcher/s6.PNG" width="300"/>
 </p>
 
 ## 🔧 Academic Projects
@@ -61,14 +61,9 @@ A simple but functional frontend-only e-commerce prototype built with plain HTML
 **Screenshots (frontend views):**
 
 <p float="left">
-  <img src="screenshots/django_formacionlaboralxxi/s1.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s2.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s3.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s4.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s5.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s6.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s7.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s8.jpg" width="400"/>
+  <img src="screenshots/talentotech_frontend/s1.PNG" width="300"/>
+  <img src="screenshots/talentotech_frontend/s2.PNG" width="300"/>
+  <img src="screenshots/talentotech_frontend/s3.PNG" width="300"/>
 </p>
 
 ### 🏰 [ClinicaMedicaGestorDeTurnos-WPF](https://github.com/alexander5109/ClinicaMedicaGestorDeTurnos-WPF)
@@ -91,14 +86,14 @@ This project was developed in **2023** as part of the *Programmer course* at **C
 **Screenshots (frontend views):**
 
 <p float="left">
-  <img src="screenshots/django_formacionlaboralxxi/s1.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s2.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s3.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s4.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s5.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s6.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s7.jpg" width="400"/>
-  <img src="screenshots/django_formacionlaboralxxi/s8.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s1.jpg" width="300"/>
+  <img src="screenshots/django_formacionlaboralxxi/s2.jpg" width="300"/>
+  <img src="screenshots/django_formacionlaboralxxi/s3.jpg" width="300"/>
+  <img src="screenshots/django_formacionlaboralxxi/s4.jpg" width="300"/>
+  <img src="screenshots/django_formacionlaboralxxi/s5.jpg" width="300"/>
+  <img src="screenshots/django_formacionlaboralxxi/s6.jpg" width="300"/>
+  <img src="screenshots/django_formacionlaboralxxi/s7.jpg" width="300"/>
+  <img src="screenshots/django_formacionlaboralxxi/s8.jpg" width="300"/>
 </p>
 
 
