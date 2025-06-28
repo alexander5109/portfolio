@@ -128,9 +128,10 @@ A simple frontend-only e-commerce prototype built with HTML, CSS, and JavaScript
 
 ---
 
-## 🎮 [BFME2-ChallengeSystemTop10Players](https://github.com/alexander5109/BFME2-ChallengeSystemTop10Players)
+## 🎮 [BFME2-Top 10 Best Players Challenge System](https://github.com/alexander5109/BFME2-ChallengeSystemTop10Players)
 **Community / Hobby project.**  
-A challenge tracking system for the *BFME2* multiplayer community. It maintains a CSV history, player rankings in JSON, and publishes reports to a Discord channel. Originally designed to support Discord bot integration, though currently requires manual execution.
+A challenge tracking system designed for the *BFME2* multiplayer community. It maintains historical data in CSV format, stores player rankings in JSON, and publishes reports on a Discord channel. Originally architected for Discord bot integration, it currently runs manually.  
+Developed in 2022 and continuously maintained, I actively incorporate user feedback to add features, fix bugs, and optimize performance.
 
 **Screenshots:**
 
@@ -144,7 +145,9 @@ A challenge tracking system for the *BFME2* multiplayer community. It maintains 
 
 ## 🎮 [BFME2 - Bos Primigenius Taurus (Tower War)](https://github.com/alexander5109/BFME2-BosPrimigeniusTaurusTheTW)
 **Community / Hobby project.**  
-A fully custom *Tower War* map for *BFME2*, reworking core gameplay through scripting. This was my introduction to game modding and programming logic, developed between 2018 and 2023.
+A fully custom *Tower War* map for *BFME2*, fundamentally reworking core gameplay through scripting. This project served as my introduction to game modding and programming logic. Developed and distributed between 2018 and 2023, it has been actively maintained since then.  
+Players regularly send feedback via email, which I carefully review to implement updates and improvements, keeping the experience fresh and balanced.
+
 
 **Screenshots:**
 
