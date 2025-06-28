@@ -57,13 +57,50 @@ A practical PyQt6-based GUI tool for managing patch versions, mods, and utilitie
 ## 🔧 Academic Projects
 
 ### 🏰 [CursosStore-FrontendJS](https://github.com/alexander5109/CursosStore-FrontendJS)
-A simple but functional frontend-only e-commerce prototype built with plain HTML, CSS, and JavaScript. It fetches public API data to simulate a catalog of courses, allowing the user to view products, add them to a shopping cart, and simulate a purchase flow using LocalStorage. Created as part of the TalentoTech Frontend course.
+A simple but functional frontend-only e-commerce prototype built with plain HTML, CSS, and JavaScript. It fetches public API data to simulate a catalog of courses, allowing the user to view products, add them to a shopping cart, and simulate a purchase flow using LocalStorage. Created as part of the TalentoTech Frontend course i took in 2024.
+**Screenshots (frontend views):**
+
+<p float="left">
+  <img src="screenshots/django_formacionlaboralxxi/s1.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s2.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s3.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s4.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s5.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s6.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s7.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s8.jpg" width="400"/>
+</p>
 
 ### 🏰 [ClinicaMedicaGestorDeTurnos-WPF](https://github.com/alexander5109/ClinicaMedicaGestorDeTurnos-WPF)
 A desktop application developed with WPF and .NET 8.0 to manage doctor-patient appointments in a clinical setting. It offers a modern user interface with custom-styled buttons and supports both JSON-based and SQL Server-based data persistence. The app directly maps models to UI logic without MVVM, offering a practical hands-on CRUD system.
 
 ### 🏰 [FormacionLaboralXXI-DjangoWebApp](https://github.com/alexander5109/FormacionLaboralXXI-DjangoWebApp)
-A Django web application inspired by real-world training institutions. It provides a user login system and full CRUD capabilities for managing students, courses, and training centers. The frontend is styled using a Bootstrap HTML/CSS template for a clean and responsive experience.
+A Django-based web application inspired by the structure of real-world vocational training systems. It simulates the management of students, institutions, courses, and administrative regions using a normalized relational model.
+This project was developed in **2023** as part of the *Programmer course* at **Centro de Formación Profesional N.º 406 (Morón, Argentina)**.
+
+> ⚠️ **Note:** This is a **demonstration project**, not intended for production use. All authenticated users can create and edit records—including students, institutions, and courses—to showcase Django’s ORM, view architecture, and admin integration. Deletion is intentionally restricted to avoid data loss during testing.
+
+**Core features:**
+- Custom data models for `Estudiante`, `Curso`, `Institucion`, `Provincia`, and `FamiliaProfesional`, with both hierarchical and many-to-many relationships.
+- Login system and Django admin dashboard.
+- Slug generation, automatic metadata (created/updated), and flexible course enrollment.
+- User avatars support.
+- Forms for contact/feedback, modeled as a (`Queja`) in the database.
+- SQLite3 backend with a Bootstrap-styled frontend for CRUD operation demonstration.
+
+**Screenshots (frontend views):**
+
+<p float="left">
+  <img src="screenshots/django_formacionlaboralxxi/s1.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s2.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s3.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s4.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s5.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s6.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s7.jpg" width="400"/>
+  <img src="screenshots/django_formacionlaboralxxi/s8.jpg" width="400"/>
+</p>
+
 
 ## 🔧 Gaming & Modding
 
