@@ -2,6 +2,47 @@
 
 Welcome to my portfolio! Here you'll find a curated list of my personal and academic projects, covering a range of topics from game modding to web development and desktop applications.
 
+## 🧠 Highlight Project
+
+### 🐎 StudbookWebScrapper & RaceStimator
+An advanced tool for real-time web scraping and prediction of horse racing outcomes. Designed for performance, accuracy, and data integrity.
+
+**Key features:**
+- Headless browsing using Selenium/Playwright to extract race data from JavaScript-rendered websites.
+- Immutable domain model with structured entities: `Horse`, `Race`, `Performance`.
+- Real-time prediction module with result caching and offline analysis support.
+- Built with Python, leveraging custom ETL routines and SQLite-based persistence.
+
+**Screenshots:**
+
+<p float="left">
+  <img src="screenshots/studbook_scrapper/s1.png" width="400"/>
+  <img src="screenshots/studbook_scrapper/s2.png" width="400"/>
+  <img src="screenshots/studbook_scrapper/s3.png" width="400"/>
+  <img src="screenshots/studbook_scrapper/s4.png" width="400"/>
+  <img src="screenshots/studbook_scrapper/s5.png" width="400"/>
+  <img src="screenshots/studbook_scrapper/s6.png" width="400"/>
+  <img src="screenshots/studbook_scrapper/s7.png" width="400"/>
+</p>
+
+
+### 🧙 BFME2 Patch Switcher (PyQt6)
+
+A modern PyQt6-based GUI tool for managing patch versions, mods, and utilities for *The Lord of the Rings: The Battle for Middle-Earth II*. Designed to keep an abandonware community updated and organized.
+
+**Key features:**
+- GUI patch switcher and updater for BFME2, distributed to players since 2023.
+- Integrates with a remote JSON file to check for patch updates, utilities, and installer links.
+- Fully self-contained desktop app with binary distribution.
+
+**Screenshots:**
+
+<p float="left">
+  <img src="screenshots/bfme2_switcher/s1.png" width="400"/>
+  <img src="screenshots/bfme2_switcher/s2.png" width="400"/>
+  <img src="screenshots/bfme2_switcher/s3.png" width="400"/>
+</p>
+
 ## 🔧 Academic Projects
 
 ### 🏰 [CursosStore-FrontendJS](https://github.com/alexander5109/CursosStore-FrontendJS)
@@ -23,12 +64,6 @@ A Tower War style of map that basicaly reworked the entire gameplay of BFME2 in 
 
 ## 🔧 Personal Programing Projects
 - **Gestor de Tecnicaturas (WIP)** — A desktop application designed to help digitize and manage student academic records, created for practical use by school staff. Written in C# with support for JSON, CSV, and SQLite3, it includes utilities to parse Google Sheets exports for bulk data import.
-
-
-## 🔐 Private Projects
-
-- **BFME2-PatchSwitcher-PyQt6** — A modern GUI tool for switching BFME2 patches and linking the applications to a remote json to provide binary updates, new patches, addons and utilies for the users of an abandonware game like LOTR BFME2.
-- **RacePredictor-ClientEdition** — Real-time web scraping and result estimation for horse races.
 
 ## 📫 Contact
 
