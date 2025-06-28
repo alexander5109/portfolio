@@ -2,7 +2,7 @@
 
 Bienvenido a mi portfolio. Aquí se encuentra una descripción de mis proyectos personales, académicos y comunitarios, que abarcan desde modding de videojuegos, scripts, desarrollo web y aplicaciones de escritorio.
 
-## 🐎 Scraper y Estimador de Carreras Studbook  
+## 🐎 Aplicación de consola: Studbook Scraper y Estimador de Carreras (Python, Selenium)  
 **Proyecto freelance / académico.**  
 Una aplicación de consola en Python desarrollado para recolectar y analizar datos de carreras de caballos, diseñado para ayudar al jugador a tomar decisiones informadas antes de cada evento. Extrae datos en línea (sin API), los procesa en reportes estructurados y destaca estadísticas clave para cada caballo.
 
@@ -34,7 +34,7 @@ Actualmente esta herramienta forma parte de una iniciativa de investigación con
 
 ---
 
-## 🧙 Switcher de Parches para BFME2 (PyQt6)  
+## 🧙 Aplicación de escritorio: BFME2 Patch Switcher (Python, PyQt6)  
 **Proyecto comunitario / hobby.**  
 Herramienta GUI práctica hecha con Python y PyQt6 para gestionar versiones de parches, mods y utilidades para *The Lord of the Rings: The Battle for Middle-Earth II*. Diseñada para mantener organizada y actualizada a una comunidad de abandonware.
 
@@ -57,7 +57,7 @@ Herramienta GUI práctica hecha con Python y PyQt6 para gestionar versiones de p
 
 ---
 
-## 🏥 [ClinicaMedicaGestorDeTurnos-WPF](https://github.com/alexander5109/ClinicaMedicaGestorDeTurnos-WPF)  
+## 🏥 [Aplicación de escritorio: Gestor de Turnos de una Clínica Medica (C#, WPF) ](https://github.com/alexander5109/ClinicaMedicaGestorDeTurnos-WPF)  
 **Proyecto académico.**  
 Aplicación de escritorio construida con **WPF y .NET 8.0** para gestionar turnos médicos en un entorno clínico. Desarrollada como proyecto práctico para la materia *"Programación II"* de la *Tecnicatura Universitaria en Programación* (UTN, 2024).
 
@@ -81,7 +81,7 @@ Aplicación de escritorio construida con **WPF y .NET 8.0** para gestionar turno
 
 ---
 
-## 🏫 [FormacionLaboralXXI-DjangoWebApp](https://github.com/alexander5109/FormacionLaboralXXI-DjangoWebApp)  
+## 🏫 [Sitio Web con BackEnd: Formacion Laboral XXI (Python Django)](https://github.com/alexander5109/FormacionLaboralXXI-DjangoWebApp)  
 **Proyecto académico.**  
 Aplicación web basada en Python con ORM Django que simula un sistema de gestión de formación profesional. Modela estudiantes, instituciones, cursos y centros de formación con un esquema relacional normalizado. Desarrollada en **2023** durante el *Curso de Programador* en el *Centro de Formación Profesional N.º 406 (Morón, Argentina)*.
 
@@ -110,7 +110,7 @@ Aplicación web basada en Python con ORM Django que simula un sistema de gestió
 
 ---
 
-## 🛒 [CursosStore-FrontendJS](https://github.com/alexander5109/CursosStore-FrontendJS)  
+## 🛒 [Página Web FrontEnd: Academia de cursos (HTML, CSS, JS)](https://github.com/alexander5109/CursosStore-FrontendJS)  
 **Proyecto académico.**  
 Prototipo simple y funcional de e-commerce frontend construido con HTML, CSS y JavaScript. Consume datos de APIs públicas para simular un catálogo de cursos con funcionalidad de carrito. Desarrollado en 2024 como parte del curso *TalentoTech Frontend*.
 
@@ -129,7 +129,7 @@ Prototipo simple y funcional de e-commerce frontend construido con HTML, CSS y J
 
 ---
 
-## 🎮 [BFME2 - Top 10 Best Players: Challenge System](https://github.com/alexander5109/BFME2-ChallengeSystemTop10Players)  
+## 🎮 [Aplicación de consola: BFME2 Top 10 Best Players: Challenge System (Python)](https://github.com/alexander5109/BFME2-ChallengeSystemTop10Players)  
 **Proyecto comunitario / hobby.**  
 Sistema de seguimiento de desafíos para la comunidad multijugador de *BFME2*. Mantiene historial en CSV, rankings de jugadores en JSON y publica reportes en un canal de Discord. Originalmente pensado para integración con bot de Discord, actualmente se ejecuta manualmente.  
 Desarrollado en 2022 y mantenido continuamente, incorporo feedback para nuevas funcionalidades, corrección de errores y mejoras.
@@ -144,7 +144,7 @@ Desarrollado en 2022 y mantenido continuamente, incorporo feedback para nuevas f
 
 ---
 
-## 🎮 [BFME2 - Bos Primigenius Taurus (Tower War)](https://github.com/alexander5109/BFME2-BosPrimigeniusTaurusTheTW)  
+## 🎮 [BFME2 mapa personalizado: Bos Primigenius Taurus TW](https://github.com/alexander5109/BFME2-BosPrimigeniusTaurusTheTW)  
 **Proyecto comunitario / hobby.**  
 Mapa completamente personalizado *Tower War* para *BFME2*, que reestructura la jugabilidad central mediante modificación de los recursos presentes en el juego y scripting. Fue mi introducción al modding de juegos y lógica de programación. Desarrollado y distribuido entre 2018 y 2023, y mantenido activamente desde entonces.  
 Los jugadores me envían comentarios por email, que analizo para implementar mejoras y actualizaciones, manteniendo la experiencia fresca y equilibrada.
