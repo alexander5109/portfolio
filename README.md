@@ -72,13 +72,13 @@ A desktop application developed with WPF and .NET 8.0 to manage doctor-patient a
 **Screenshots (frontend views):**
 
 <p float="left">
-  <img src="screenshots/clinica_medica/s1.jpg" width="400"/>
-  <img src="screenshots/clinica_medica/s2.jpg" width="400"/>
-  <img src="screenshots/clinica_medica/s3.jpg" width="400"/>
-  <img src="screenshots/clinica_medica/s4.jpg" width="400"/>
-  <img src="screenshots/clinica_medica/s5.jpg" width="400"/>
-  <img src="screenshots/clinica_medica/s6.jpg" width="400"/>
-  <img src="screenshots/clinica_medica/s7.jpg" width="400"/>
+  <img src="screenshots/clinica_medica/s1.PNG" width="400"/>
+  <img src="screenshots/clinica_medica/s2.PNG" width="400"/>
+  <img src="screenshots/clinica_medica/s3.PNG" width="400"/>
+  <img src="screenshots/clinica_medica/s4.PNG" width="400"/>
+  <img src="screenshots/clinica_medica/s5.PNG" width="400"/>
+  <img src="screenshots/clinica_medica/s6.PNG" width="400"/>
+  <img src="screenshots/clinica_medica/s7.PNG" width="400"/>
 </p>
 
 
