@@ -110,7 +110,7 @@ Aplicación web basada en Python con ORM Django que simula un sistema de gestió
 
 ---
 
-## 🛒 [Página Web FrontEnd: Academia de cursos (HTML, CSS, JS)](https://github.com/alexander5109/CursosStore-FrontendJS)  
+## 🛒 [Página Web FrontEnd: Prototipo de E-commerce: Academia de cursos (HTML, CSS, JS)](https://github.com/alexander5109/CursosStore-FrontendJS)  
 **Proyecto académico.**  
 Prototipo simple y funcional de e-commerce frontend construido con HTML, CSS y JavaScript. Consume datos de APIs públicas para simular un catálogo de cursos con funcionalidad de carrito. Desarrollado en 2024 como parte del curso *TalentoTech Frontend*.
 
@@ -129,36 +129,6 @@ Prototipo simple y funcional de e-commerce frontend construido con HTML, CSS y J
 
 ---
 
-## 🧩 The Lord of The Rings: Battle for Middle-earth II – GameReplays.org Patch Development  
-**Community project / hobby.**  
-
-I have been actively involved in maintaining, testing, and developing patches for *BFME2* under the SAGE engine, collaborating with the international community to keep this classic game alive and competitive. My role evolved from tester to co-developer, and eventually to lead technical maintainer and section admin for BFME2 on GameReplays.org.
-
-**Roles and responsibilities:**  
-- Co-developer of patches 1.09 and 1.09v2 (approximately 100 beta versions combined).  
-- Lead developer of patch 1.09v3.0 (65 beta versions).  
-- Tester for earlier versions (1.07 and 1.08), contributing to balance, QA, and bug reporting.  
-- Author of a Python GUI-based *Patch Switcher*, enabling users to switch between versions without modifying the binary files.  
-- Maintained complex `.ini` configuration files under strict engine constraints (no `.exe` modification), similar to working with embedded DSLs.  
-- Coordinated community efforts for competitive balance, map design, and ongoing user feedback.
-
-**What I learned:**  
-- **Technical English and international communication:** over a decade of forum discussions, chat-based coordination, and community support for an unsupported legacy game.  
-- **Version control:** extensive use of tools like **WinMerge** and **TortoiseGit** to compare builds, manage changes, and perform safe merges.  
-- **Advanced debugging:** binary search between builds to locate runtime bugs in the absence of error logs or stack traces.  
-- **QA and support:** solving bugs reported by users, writing documentation, handling regressions, and managing volunteer testers.
-
-**Featured release:**  
-> “After a long journey of testing with over 65 beta versions, we are excited to share the highly anticipated Patch 1.09 Version 3.0”  
-> 👉 [Read the official announcement on GameReplays.org](https://www.gamereplays.org/battleformiddleearth2/portals.php?show=page&name=bfme2-patch-1.09-version-3.0-live)
-
-**Screenshots:**  
-<p float="left">
-  <img src="screenshots/bfme2_patch/s1.PNG" width="400"/>
-</p>
-
----
-
 ## 🎮 [Aplicación de consola: BFME2 Top 10 Best Players: Challenge System (Python)](https://github.com/alexander5109/BFME2-ChallengeSystemTop10Players)  
 **Proyecto comunitario / hobby.**  
 Sistema de seguimiento de desafíos para la comunidad multijugador de *BFME2*. Mantiene historial en CSV, rankings de jugadores en JSON y publica reportes en un canal de Discord. Originalmente pensado para integración con bot de Discord, actualmente se ejecuta manualmente.  
@@ -170,6 +140,34 @@ Desarrollado en 2022 y mantenido continuamente, incorporo feedback para nuevas f
   <img src="screenshots/bfme2_challenges/s1.PNG" width="400"/>
   <img src="screenshots/bfme2_challenges/s2.PNG" width="400"/>
   <img src="screenshots/bfme2_challenges/s3.PNG" width="400"/>
+</p>
+
+---
+## 🧩 [El Señor de los Anillos: La Batalla por la Tierra Media II – GameReplays.org Patch Development](https://github.com/ValheruGR/BFME2)  
+**Proyecto comunitario / hobby.**  
+He participado activamente en el mantenimiento, testeo y desarrollo de parches para *BFME2* bajo el motor SAGE, colaborando con la comunidad internacional para mantener vivo un juego clásico con fuerte base de jugadores competitivos. Mi rol evolucionó de tester a co-desarrollador, y finalmente a responsable principal de lanzamientos técnicos y administrador de la sección BFME2 en GameReplays.org.
+
+**Roles y responsabilidades:**  
+- Co-desarrollador de las versiones 1.09 y 1.09v2 (aproximadamente 100 betas combinadas).  
+- Desarrollador principal de la versión 1.09v3.0 (65 betas).  
+- Tester en versiones previas (1.07 y 1.08), colaborando con balance, QA y reporte de bugs.  
+- Autor del *Patch Switcher* en Python con GUI, permitiendo cambiar entre versiones sin alterar archivos binarios.  
+- Mantenimiento de archivos .ini complejos bajo restricciones del motor cerrado (sin modificar el .exe), equivalente a trabajo con DSLs embebidos.  
+- Coordinación comunitaria para balance competitivo, diseño de mapas y gestión de feedback continuo.
+
+**Lo que aprendí:**  
+- **Inglés técnico y comunicación internacional:** más de una década interactuando en foros, chats, gestión comunitaria y soporte para un software sin soporte oficial.  
+- **Control de versiones:** uso intensivo de herramientas como **WinMerge** y **TortoiseGit** para comparar builds, gestionar cambios y realizar merge de ramas.  
+- **Depuración avanzada:** búsqueda binaria entre builds para detectar bugs de runtime sin mensajes de error, en un entorno sin logs ni debugger.  
+- **Soporte y QA:** resolución de bugs reportados por usuarios, creación de documentación, manejo de regresiones y coordinación de testers.
+
+**Publicación destacada:**  
+> “After a long journey of testing with over 65 beta versions, we are excited to share the highly anticipated Patch 1.09 Version 3.0”  
+> 👉 [Ver publicación oficial en GameReplays.org](https://www.gamereplays.org/battleformiddleearth2/portals.php?show=page&name=bfme2-patch-1.09-version-3.0-live)
+
+**Capturas:**  
+<p float="left">
+  <img src="screenshots/bfme2_patch/s1.PNG" width="400"/>
 </p>
 
 ---

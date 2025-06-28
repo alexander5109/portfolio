@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Here you'll find a curated list of my personal, academic, and community-driven projects, covering a range of topics from game modding to web development and desktop applications.
 
-## 🐎 Studbook Web Scraper & Race Estimator
+## 🐎 Console App: Studbook Scraper & Race Estimator (Python, Selenium)
 **Freelance / Academic project.**  
 A Python-based script developed for collecting and analyzing horse racing data, designed to assist users in making informed betting decisions before a race event. It scrapes online data, processes it into structured reports, and highlights key statistics for each horse.
 
@@ -34,7 +34,7 @@ This tool is also part of a joint research initiative in collaboration with a pr
 
 ---
 
-## 🧙 BFME2 Patch Switcher (PyQt6)
+## 🧙 Desktop App: BFME2 Patch Switcher (Python, PyQt6)
 **Community / Hobby project.**  
 A practical PyQt6-based GUI tool for managing patch versions, mods, and utilities for *The Lord of the Rings: The Battle for Middle-Earth II*. Designed to help organize and update an abandonware community.
 
@@ -56,7 +56,7 @@ A practical PyQt6-based GUI tool for managing patch versions, mods, and utilitie
 
 ---
 
-## 🏥 [ClinicaMedicaGestorDeTurnos-WPF](https://github.com/alexander5109/ClinicaMedicaGestorDeTurnos-WPF)
+## 🏥 [Desktop App: Medic Clinic Turn Manager (C#, WPF)](https://github.com/alexander5109/ClinicaMedicaGestorDeTurnos-WPF)
 **Academic project.**  
 A desktop application built with **WPF and .NET 8.0** for managing medical appointments in a clinical setting. Designed as a hands-on project for the *"Programación II"* course at the *Tecnicatura Universitaria en Programación* (UTN, 2024).
 
@@ -80,7 +80,7 @@ A desktop application built with **WPF and .NET 8.0** for managing medical appoi
 
 ---
 
-## 🏫 [FormacionLaboralXXI-DjangoWebApp](https://github.com/alexander5109/FormacionLaboralXXI-DjangoWebApp)
+## 🏫 [Website with BackEnd: Vocational Training XXI (Python, Django)](https://github.com/alexander5109/FormacionLaboralXXI-DjangoWebApp)
 **Academic project.**  
 A Django-based web application simulating a vocational training management system. It models students, institutions, courses, and training centers using a normalized relational schema. Developed in **2023** during the *Programmer course* at *Centro de Formación Profesional N.º 406 (Morón, Argentina)*.
 
@@ -109,7 +109,7 @@ A Django-based web application simulating a vocational training management syste
 
 ---
 
-## 🛒 [CursosStore-FrontendJS](https://github.com/alexander5109/CursosStore-FrontendJS)
+## 🛒 [Web Page FrontEnd: E-commerce prototype: Courses academy (HTML, CSS, JS)](https://github.com/alexander5109/CursosStore-FrontendJS)
 **Academic project.**  
 A simple frontend-only e-commerce prototype built with HTML, CSS, and JavaScript. It consumes public API data to simulate a course catalog with cart functionality. Developed in 2024 as part of the *TalentoTech Frontend* course.
 
@@ -128,7 +128,7 @@ A simple frontend-only e-commerce prototype built with HTML, CSS, and JavaScript
 
 ---
 
-## 🎮 [BFME2-Top 10 Best Players Challenge System](https://github.com/alexander5109/BFME2-ChallengeSystemTop10Players)
+## 🎮 [Console App: BFME2 Top 10 Best Players: Challenge System (Python) ](https://github.com/alexander5109/BFME2-ChallengeSystemTop10Players)
 **Community / Hobby project.**  
 A challenge tracking system designed for the *BFME2* multiplayer community. It maintains historical data in CSV format, stores player rankings in JSON, and publishes reports on a Discord channel. Originally architected for Discord bot integration, it currently runs manually.  
 Developed in 2022 and continuously maintained, I actively incorporate user feedback to add features, fix bugs, and optimize performance.
@@ -143,32 +143,36 @@ Developed in 2022 and continuously maintained, I actively incorporate user feedb
 
 ---
 
-### 🧩 *Battle for Middle-earth II* – GameReplays.org Patch Development & Live Support
-**2013–2025 | GameReplays.org – Community Technical Contributor**
+## 🧩 [BFME2 Patch: The Lord of The Rings: Battle for Middle-earth II – GameReplays.org Patch Development](https://github.com/ValheruGR/BFME2)  
+**Community project / hobby.**  
+I have been actively involved in maintaining, testing, and developing patches for *BFME2* under the SAGE engine, collaborating with the international community to keep this classic game alive and competitive. My role evolved from tester to co-developer, and eventually to lead technical maintainer and section admin for BFME2 on GameReplays.org.
 
-He participado activamente en el mantenimiento, testeo y desarrollo de parches para *BFME2* bajo el motor SAGE, colaborando con la comunidad internacional para mantener vivo un juego clásico con fuerte base de jugadores competitivos. Mi rol evolucionó de tester a co-desarrollador, y finalmente a responsable principal de lanzamientos técnicos.
+**Roles and responsibilities:**  
+- Co-developer of patches 1.09 and 1.09v2 (approximately 100 beta versions combined).  
+- Lead developer of patch 1.09v3.0 (65 beta versions).  
+- Tester for earlier versions (1.07 and 1.08), contributing to balance, QA, and bug reporting.  
+- Author of a Python GUI-based *Patch Switcher*, enabling users to switch between versions without modifying the binary files.  
+- Maintained complex `.ini` configuration files under strict engine constraints (no `.exe` modification), similar to working with embedded DSLs.  
+- Coordinated community efforts for competitive balance, map design, and ongoing user feedback.
 
-#### 🛠️ Roles y responsabilidades:
-- Co-desarrollador de las versiones 1.09 y 1.09v2 (aproximadamente 100 betas combinadas)
-- Desarrollador principal de la versión 1.09v3.0 (65 betas)
-- Tester en versiones previas (1.07 y 1.08), colaborando con balance, QA y reporte de bugs
-- Autor del *Patch Switcher* en Python con GUI, permitiendo cambiar entre versiones sin alterar archivos binarios
-- Mantenimiento de archivos `.ini` complejos bajo restricciones de motor cerrado (sin tocar el `.exe`), equivalente a trabajo con DSLs embebidos
-- Coordinación comunitaria para balance competitivo, diseño de mapas y procesamiento de feedback continuo
+**What I learned:**  
+- **Technical English and international communication:** over a decade of forum discussions, chat-based coordination, and community support for an unsupported legacy game.  
+- **Version control:** extensive use of tools like **WinMerge** and **TortoiseGit** to compare builds, manage changes, and perform safe merges.  
+- **Advanced debugging:** binary search between builds to locate runtime bugs in the absence of error logs or stack traces.  
+- **QA and support:** solving bugs reported by users, writing documentation, handling regressions, and managing volunteer testers.
 
-#### 🧰 Herramientas clave:
-- **WinMerge**: uso intensivo para comparar builds y cambios en scripts
-- **TortoiseGit**: gestión de versiones y revisión colaborativa por más de 10 años
-- **Python + Tkinter**: desarrollo de GUI utilitaria para facilitar testing comunitario
-- **Debugeo manual** de comportamiento emergente bajo condiciones limitadas de trazabilidad
+**Featured release:**  
+> “After a long journey of testing with over 65 beta versions, we are excited to share the highly anticipated Patch 1.09 Version 3.0”  
+> 👉 [Read the official announcement on GameReplays.org](https://www.gamereplays.org/battleformiddleearth2/portals.php?show=page&name=bfme2-patch-1.09-version-3.0-live)
 
-#### 📌 Publicación destacada:
-> “After a long journey of testing with over 65 beta versions, we are excited to share the highly anticipated Patch 1.09 Version 3.0 Final”  
-> 👉 [Ver publicación oficial en GameReplays.org](https://www.gamereplays.org/battleformiddleearth2/portals.php?show=page&name=bfme2-patch-1.09-version-3.0-live)
+**Screenshots:**  
+<p float="left">
+  <img src="screenshots/bfme2_patch/s1.PNG" width="400"/>
+</p>
 
 ---
 
-## 🎮 [BFME2 - Bos Primigenius Taurus (Tower War)](https://github.com/alexander5109/BFME2-BosPrimigeniusTaurusTheTW)
+## 🎮 [BFME2 Custom Map: Bos Primigenius Taurus: The Tower War)](https://github.com/alexander5109/BFME2-BosPrimigeniusTaurusTheTW)
 **Community / Hobby project.**  
 A fully custom *Tower War* map for *BFME2*, fundamentally reworking core gameplay through scripting. This project served as my introduction to game modding and programming logic. Developed and distributed between 2018 and 2023, it has been actively maintained since then.  
 Players regularly send feedback via email, which I carefully review to implement updates and improvements, keeping the experience fresh and balanced.
