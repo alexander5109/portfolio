@@ -36,7 +36,7 @@ This project is part of an ongoing academic research initiative in collaboration
 
 ### 🧙 BFME2 Patch Switcher (PyQt6)
 
-A modern PyQt6-based GUI tool for managing patch versions, mods, and utilities for *The Lord of the Rings: The Battle for Middle-Earth II*. Designed to keep an abandonware community updated and organized.
+A practical PyQt6-based GUI tool for managing patch versions, mods, and utilities for *The Lord of the Rings: The Battle for Middle-Earth II*. Designed to keep an abandonware community updated and organized.
 
 **Key features:**
 - GUI patch switcher and updater for BFME2, distributed to players since 2023.
@@ -46,12 +46,12 @@ A modern PyQt6-based GUI tool for managing patch versions, mods, and utilities f
 **Screenshots:**
 
 <p float="left">
-  <img src="screenshots/bfme2_switcher/s1.png" width="400"/>
-  <img src="screenshots/bfme2_switcher/s2.png" width="400"/>
-  <img src="screenshots/bfme2_switcher/s3.png" width="400"/>
-  <img src="screenshots/bfme2_switcher/s4.png" width="400"/>
-  <img src="screenshots/bfme2_switcher/s5.png" width="400"/>
-  <img src="screenshots/bfme2_switcher/s6.png" width="400"/>
+  <img src="screenshots/bfme2_switcher/s1.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s2.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s3.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s4.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s5.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s6.PNG" width="400"/>
 </p>
 
 ## 🔧 Academic Projects
