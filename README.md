@@ -1,26 +1,26 @@
-# 👨‍💻 Portfolio: Developments and Projects
+# 👨‍💻 Portfolio: Desarrollos y Proyectos
 
-Welcome to my portfolio! Here you'll find a curated list of my personal, academic, and community-driven projects, covering a range of topics from game modding to web development and desktop applications.
+Bienvenido a mi portfolio. Aquí se encuentra una descripción de mis proyectos personales, académicos y comunitarios, que abarcan desde modding de videojuegos, scripts, desarrollo web y aplicaciones de escritorio.
 
-## 🐎 Studbook Web Scraper & Race Estimator
-**Freelance / Academic project.**  
-A Python-based script developed for collecting and analyzing horse racing data, designed to assist users in making informed betting decisions before a race event. It scrapes online data, processes it into structured reports, and highlights key statistics for each horse.
+## 🐎 Scraper y Estimador de Carreras Studbook  
+**Proyecto freelance / académico.**  
+Una aplicación de consola en Python desarrollado para recolectar y analizar datos de carreras de caballos, diseñado para ayudar al jugador a tomar decisiones informadas antes de cada evento. Extrae datos en línea (sin API), los procesa en reportes estructurados y destaca estadísticas clave para cada caballo.
 
-**Project overview:**
-- Originally developed as a freelance tool for bettors, automating the collection of race and horse data from dynamic websites using Selenium and Playwright.
-- Processes and structures data with pandas, storing it in a normalized SQLite3 database.
-- Generates daily reports with calculated variables and race-by-race recommendations.
+**Resumen del proyecto:**  
+- Originalmente creado como herramienta freelance para apostadores, automatiza la recolección de datos de carreras y caballos desde sitios web dinámicos usando Selenium y Playwright.  
+- Procesa y estructura datos con pandas, almacenándolos en una base SQLite3 normalizada.  
+- Genera reportes diarios con variables calculadas y recomendaciones carrera por carrera.
 
-**Current evolution:**
-- The project is now evolving into a more advanced data analysis tool:
-  - Refactoring to support asynchronous scraping using `asyncio`.
-  - Expanding the number of variables analyzed for better prediction quality.
-  - Improving code structure to support experimentation with predictive algorithms.
+**Evolución actual:**  
+- El proyecto se está transformando en una herramienta más avanzada de análisis de datos:  
+  - Refactorización para soportar scraping asíncrono con `asyncio`.  
+  - Ampliación del número de variables analizadas para mejorar la calidad de las predicciones.  
+  - Mejora de la estructura de código para facilitar experimentos con algoritmos predictivos.
 
-**Academic collaboration:**  
-This tool is also part of a joint research initiative in collaboration with a professional statistician. A poster presentation on the algorithmic logic will be featured at the *LI Coloquio Argentino de Estadística* in Tucumán later this year.
+**Colaboración académica:**  
+Actualmente esta herramienta forma parte de una iniciativa de investigación conjunta con una estadística profesional. Presentaremos un póster sobre su lógica algorítmica en el *LI Coloquio Argentino de Estadística* que se realizará en Tucumán a fin de año.
 
-**Screenshots:**
+**Capturas:**  
 
 <p float="left">
   <img src="screenshots/studbook_scrapper/s1.png" width="400"/>
@@ -34,16 +34,17 @@ This tool is also part of a joint research initiative in collaboration with a pr
 
 ---
 
-## 🧙 BFME2 Patch Switcher (PyQt6)
-**Community / Hobby project.**  
-A practical PyQt6-based GUI tool for managing patch versions, mods, and utilities for *The Lord of the Rings: The Battle for Middle-Earth II*. Designed to help organize and update an abandonware community.
+## 🧙 Switcher de Parches para BFME2 (PyQt6)  
+**Proyecto comunitario / hobby.**  
+Herramienta GUI práctica hecha con Python y PyQt6 para gestionar versiones de parches, mods y utilidades para *The Lord of the Rings: The Battle for Middle-Earth II*. Diseñada para mantener organizada y actualizada a una comunidad de abandonware.
 
-**Key features:**
-- GUI patch switcher and updater for BFME2, distributed to players since 2023.
-- Connects to a remote JSON file to fetch patch updates, utilities, and installers.
-- Fully self-contained desktop app with binary distribution.
+**Características principales:**  
+- Selector y actualizador de parches para BFME2, distribuido desde 2023.  
+- Algoritmo eficiente para detectar diferencias entre versiones instaladas.
+- Conexión con un archivo JSON remoto para obtener actualizaciones, utilidades e instaladores.  
+- Aplicación de escritorio autónoma con distribución binaria (compilada con PyInstaller).
 
-**Screenshots:**
+**Capturas:**  
 
 <p float="left">
   <img src="screenshots/bfme2_switcher/s1.PNG" width="400"/>
@@ -56,17 +57,17 @@ A practical PyQt6-based GUI tool for managing patch versions, mods, and utilitie
 
 ---
 
-## 🏥 [ClinicaMedicaGestorDeTurnos-WPF](https://github.com/alexander5109/ClinicaMedicaGestorDeTurnos-WPF)
-**Academic project.**  
-A desktop application built with **WPF and .NET 8.0** for managing medical appointments in a clinical setting. Designed as a hands-on project for the *"Programación II"* course at the *Tecnicatura Universitaria en Programación* (UTN, 2024).
+## 🏥 [ClinicaMedicaGestorDeTurnos-WPF](https://github.com/alexander5109/ClinicaMedicaGestorDeTurnos-WPF)  
+**Proyecto académico.**  
+Aplicación de escritorio construida con **WPF y .NET 8.0** para gestionar turnos médicos en un entorno clínico. Desarrollada como proyecto práctico para la materia *"Programación II"* de la *Tecnicatura Universitaria en Programación* (UTN, 2024).
 
-**Key features:**
-- Modern UI with custom-styled buttons and dynamic view switching.
-- Supports both **JSON** and **SQL Server** as persistence backends.
-- Binds logic directly to UI components, avoiding MVVM for simplicity.
-- Fully functional CRUD system with separated modules for patients, doctors, and appointment scheduling.
+**Características principales:**  
+- Interfaz moderna con botones personalizados (hechos a mano con Gimp) y cambio dinámico de vistas.  
+- Soporta persistencia de datos en **JSON** y **SQL Server**.  
+- Vincula la lógica directamente a componentes UI, evitando MVVM para simplificar.  
+- Sistema CRUD completo con módulos separados pero inter-relacionados para pacientes, médicos y turnos.
 
-**Screenshots:**
+**Capturas:**  
 
 <p float="left">
   <img src="screenshots/clinica_medica/s1.PNG" width="400"/>
@@ -80,21 +81,21 @@ A desktop application built with **WPF and .NET 8.0** for managing medical appoi
 
 ---
 
-## 🏫 [FormacionLaboralXXI-DjangoWebApp](https://github.com/alexander5109/FormacionLaboralXXI-DjangoWebApp)
-**Academic project.**  
-A Django-based web application simulating a vocational training management system. It models students, institutions, courses, and training centers using a normalized relational schema. Developed in **2023** during the *Programmer course* at *Centro de Formación Profesional N.º 406 (Morón, Argentina)*.
+## 🏫 [FormacionLaboralXXI-DjangoWebApp](https://github.com/alexander5109/FormacionLaboralXXI-DjangoWebApp)  
+**Proyecto académico.**  
+Aplicación web basada en Python con ORM Django que simula un sistema de gestión de formación profesional. Modela estudiantes, instituciones, cursos y centros de formación con un esquema relacional normalizado. Desarrollada en **2023** durante el *Curso de Programador* en el *Centro de Formación Profesional N.º 406 (Morón, Argentina)*.
 
-> ⚠️ **Note:** This is a learning project, not intended for real-world deployment. All authenticated users can edit data (students, institutions, courses) to explore Django’s ORM and architecture. Deletions are restricted to preserve data during testing.
+> ⚠️ **Nota:** Proyecto didáctico, no para producción real. Todos los usuarios autenticados pueden editar datos (estudiantes, instituciones, cursos) para explorar el ORM y arquitectura de Django. Se restringen eliminaciones para preservar datos en pruebas.
 
-**Features:**
-- Models: `Estudiante`, `Curso`, `Institucion`, `Provincia`, `FamiliaProfesional`, and more.
-- Hierarchical + many-to-many relationships.
-- Auto-generated slugs and timestamped records.
-- Django admin panel and basic login system.
-- Optional avatars and feedback form (`Queja`).
-- SQLite + Bootstrap template for frontend visualization.
+**Características:**  
+- Modelos: `Estudiante`, `Curso`, `Institucion`, `Provincia`, `FamiliaProfesional`, entre otros.  
+- Relaciones jerárquicas y de muchos a muchos.  
+- Slugs autogenerados y registros con timestamps.  
+- Panel de administración de Django y sistema básico de login.  
+- Soporte opcional para avatares y formulario de feedback (`Queja`).  
+- Backend SQLite + plantilla Bootstrap para visualización frontend.
 
-**Screenshots:**
+**Capturas:**  
 
 <p float="left">
   <img src="screenshots/django_formacionlaboralxxi/s1.jpg" width="400"/>
@@ -109,16 +110,16 @@ A Django-based web application simulating a vocational training management syste
 
 ---
 
-## 🛒 [CursosStore-FrontendJS](https://github.com/alexander5109/CursosStore-FrontendJS)
-**Academic project.**  
-A simple frontend-only e-commerce prototype built with HTML, CSS, and JavaScript. It consumes public API data to simulate a course catalog with cart functionality. Developed in 2024 as part of the *TalentoTech Frontend* course.
+## 🛒 [CursosStore-FrontendJS](https://github.com/alexander5109/CursosStore-FrontendJS)  
+**Proyecto académico.**  
+Prototipo simple y funcional de e-commerce frontend construido con HTML, CSS y JavaScript. Consume datos de APIs públicas para simular un catálogo de cursos con funcionalidad de carrito. Desarrollado en 2024 como parte del curso *TalentoTech Frontend*.
 
-**Features:**
-- Product listing from API.
-- Shopping cart using `localStorage`.
-- Mobile-friendly UI with vanilla JS logic.
+**Características:**  
+- Listado de productos desde API.  
+- Carrito de compras usando `localStorage`.  
+- UI responsive y lógica con JavaScript puro.
 
-**Screenshots:**
+**Capturas:**  
 
 <p float="left">
   <img src="screenshots/talentotech_frontend/s1.PNG" width="400"/>
@@ -128,12 +129,12 @@ A simple frontend-only e-commerce prototype built with HTML, CSS, and JavaScript
 
 ---
 
-## 🎮 [BFME2-Top 10 Best Players Challenge System](https://github.com/alexander5109/BFME2-ChallengeSystemTop10Players)
-**Community / Hobby project.**  
-A challenge tracking system designed for the *BFME2* multiplayer community. It maintains historical data in CSV format, stores player rankings in JSON, and publishes reports on a Discord channel. Originally architected for Discord bot integration, it currently runs manually.  
-Developed in 2022 and continuously maintained, I actively incorporate user feedback to add features, fix bugs, and optimize performance.
+## 🎮 [BFME2 - Top 10 Best Players: Challenge System](https://github.com/alexander5109/BFME2-ChallengeSystemTop10Players)  
+**Proyecto comunitario / hobby.**  
+Sistema de seguimiento de desafíos para la comunidad multijugador de *BFME2*. Mantiene historial en CSV, rankings de jugadores en JSON y publica reportes en un canal de Discord. Originalmente pensado para integración con bot de Discord, actualmente se ejecuta manualmente.  
+Desarrollado en 2022 y mantenido continuamente, incorporo feedback para nuevas funcionalidades, corrección de errores y mejoras.
 
-**Screenshots:**
+**Capturas:**  
 
 <p float="left">
   <img src="screenshots/bfme2_challenges/s1.PNG" width="400"/>
@@ -143,13 +144,12 @@ Developed in 2022 and continuously maintained, I actively incorporate user feedb
 
 ---
 
-## 🎮 [BFME2 - Bos Primigenius Taurus (Tower War)](https://github.com/alexander5109/BFME2-BosPrimigeniusTaurusTheTW)
-**Community / Hobby project.**  
-A fully custom *Tower War* map for *BFME2*, fundamentally reworking core gameplay through scripting. This project served as my introduction to game modding and programming logic. Developed and distributed between 2018 and 2023, it has been actively maintained since then.  
-Players regularly send feedback via email, which I carefully review to implement updates and improvements, keeping the experience fresh and balanced.
+## 🎮 [BFME2 - Bos Primigenius Taurus (Tower War)](https://github.com/alexander5109/BFME2-BosPrimigeniusTaurusTheTW)  
+**Proyecto comunitario / hobby.**  
+Mapa completamente personalizado *Tower War* para *BFME2*, que reestructura la jugabilidad central mediante modificación de los recursos presentes en el juego y scripting. Fue mi introducción al modding de juegos y lógica de programación. Desarrollado y distribuido entre 2018 y 2023, y mantenido activamente desde entonces.  
+Los jugadores me envían comentarios por email, que analizo para implementar mejoras y actualizaciones, manteniendo la experiencia fresca y equilibrada.
 
-
-**Screenshots:**
+**Capturas:**  
 
 <p float="left">
   <img src="https://github.com/ecthelion5109/BosPrimigeniusTaurusTheTW/blob/main/_misc/_github_images/dibujo1.PNG?raw=true" width="400"/>
@@ -159,7 +159,7 @@ Players regularly send feedback via email, which I carefully review to implement
 
 ---
 
-## 📫 Contact
+## 📫 Contacto
 
 - 📧 Email: [xanderseling@gmail.com](mailto:xanderseling@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/alexander5109](https://www.linkedin.com/in/alexander5109/)
