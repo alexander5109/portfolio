@@ -34,28 +34,6 @@ This tool is also part of a joint research initiative in collaboration with a pr
 
 ---
 
-## 🧙 Desktop App: BFME2 Patch Switcher (Python, PyQt6)
-**Community / Hobby project.**  
-A practical PyQt6-based GUI tool for managing patch versions, mods, and utilities for *The Lord of the Rings: The Battle for Middle-Earth II*. Designed to help organize and update an abandonware community.
-
-**Key features:**
-- GUI patch switcher and updater for BFME2, distributed to players since 2023.
-- Connects to a remote JSON file to fetch patch updates, utilities, and installers.
-- Fully self-contained desktop app with binary distribution.
-
-**Screenshots:**
-
-<p float="left">
-  <img src="screenshots/bfme2_switcher/s1.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s2.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s3.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s4.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s5.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s6.PNG" width="400"/>
-</p>
-
----
-
 ## 🏥 [Desktop App: Medic Clinic Turn Manager (C#, WPF)](https://github.com/alexander5109/ClinicaMedicaGestorDeTurnos-WPF)
 **Academic project.**  
 A desktop application built with **WPF and .NET 8.0** for managing medical appointments in a clinical setting. Designed as a hands-on project for the *"Programación II"* course at the *Tecnicatura Universitaria en Programación* (UTN, 2024).
@@ -105,6 +83,28 @@ A Django-based web application simulating a vocational training management syste
   <img src="screenshots/django_formacionlaboralxxi/s6.jpg" width="400"/>
   <img src="screenshots/django_formacionlaboralxxi/s7.jpg" width="400"/>
   <img src="screenshots/django_formacionlaboralxxi/s8.jpg" width="400"/>
+</p>
+
+---
+
+## 🧙 Desktop App: BFME2 Patch Switcher (Python, PyQt6)
+**Community / Hobby project.**  
+A practical PyQt6-based GUI tool for managing patch versions, mods, and utilities for *The Lord of the Rings: The Battle for Middle-Earth II*. Designed to help organize and update an abandonware community.
+
+**Key features:**
+- GUI patch switcher and updater for BFME2, distributed to players since 2023.
+- Connects to a remote JSON file to fetch patch updates, utilities, and installers.
+- Fully self-contained desktop app with binary distribution.
+
+**Screenshots:**
+
+<p float="left">
+  <img src="screenshots/bfme2_switcher/s1.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s2.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s3.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s4.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s5.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s6.PNG" width="400"/>
 </p>
 
 ---

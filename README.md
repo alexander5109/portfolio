@@ -34,29 +34,6 @@ Actualmente esta herramienta forma parte de una iniciativa de investigación con
 
 ---
 
-## 🧙 Aplicación de escritorio: BFME2 Patch Switcher (Python, PyQt6)  
-**Proyecto comunitario / hobby.**  
-Herramienta GUI práctica hecha con Python y PyQt6 para gestionar versiones de parches, mods y utilidades para *The Lord of the Rings: The Battle for Middle-Earth II*. Diseñada para mantener organizada y actualizada a una comunidad de abandonware.
-
-**Características principales:**  
-- Selector y actualizador de parches para BFME2, distribuido desde 2023.  
-- Algoritmo eficiente para detectar diferencias entre versiones instaladas.
-- Conexión con un archivo JSON remoto para obtener actualizaciones, utilidades e instaladores.  
-- Aplicación de escritorio autónoma con distribución binaria (compilada con PyInstaller).
-
-**Capturas:**  
-
-<p float="left">
-  <img src="screenshots/bfme2_switcher/s1.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s2.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s3.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s4.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s5.PNG" width="400"/>
-  <img src="screenshots/bfme2_switcher/s6.PNG" width="400"/>
-</p>
-
----
-
 ## 🏥 [Aplicación de escritorio: Gestor de Turnos de una Clínica Medica (C#, WPF) ](https://github.com/alexander5109/ClinicaMedicaGestorDeTurnos-WPF)  
 **Proyecto académico.**  
 Aplicación de escritorio construida con **WPF y .NET 8.0** para gestionar turnos médicos en un entorno clínico. Desarrollada como proyecto práctico para la materia *"Programación II"* de la *Tecnicatura Universitaria en Programación* (UTN, 2024).
@@ -106,6 +83,29 @@ Aplicación web basada en Python con ORM Django que simula un sistema de gestió
   <img src="screenshots/django_formacionlaboralxxi/s6.jpg" width="400"/>
   <img src="screenshots/django_formacionlaboralxxi/s7.jpg" width="400"/>
   <img src="screenshots/django_formacionlaboralxxi/s8.jpg" width="400"/>
+</p>
+
+---
+
+## 🧙 Aplicación de escritorio: BFME2 Patch Switcher (Python, PyQt6)  
+**Proyecto comunitario / hobby.**  
+Herramienta GUI práctica hecha con Python y PyQt6 para gestionar versiones de parches, mods y utilidades para *The Lord of the Rings: The Battle for Middle-Earth II*. Diseñada para mantener organizada y actualizada a una comunidad de abandonware.
+
+**Características principales:**  
+- Selector y actualizador de parches para BFME2, distribuido desde 2023.  
+- Algoritmo eficiente para detectar diferencias entre versiones instaladas.
+- Conexión con un archivo JSON remoto para obtener actualizaciones, utilidades e instaladores.  
+- Aplicación de escritorio autónoma con distribución binaria (compilada con PyInstaller).
+
+**Capturas:**  
+
+<p float="left">
+  <img src="screenshots/bfme2_switcher/s1.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s2.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s3.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s4.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s5.PNG" width="400"/>
+  <img src="screenshots/bfme2_switcher/s6.PNG" width="400"/>
 </p>
 
 ---
